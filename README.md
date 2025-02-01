@@ -1,4 +1,4 @@
-## `Tribute Page`
+## Tribute Page
 
 ## About:
 - This repository presents a digital tribute created using HTML and CSS to showcase the life and achievements of the legendary Acharya Chanakya.
